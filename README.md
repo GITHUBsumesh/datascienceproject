@@ -18,3 +18,10 @@
 6. Update the components
 7. Update the pipeline 
 8. Update the main.py
+
+
+The error you're encountering:
+ModuleNotFoundError: No module named 'distutils._modified'
+is caused by a bug introduced in recent versions of setuptools, which replaced distutils but still has internal references to distutils._modified — a module that no longer exists.
+
+pip install setuptools==68.0.0

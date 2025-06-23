@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/DRIVE%20D/AI/End_To_End_Model/datascienceproject/mlruns/0/6ef78e4042074330ab4d5ed23438e570/artifacts
+end_time: 1750678945539
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ef78e4042074330ab4d5ed23438e570
+run_name: chill-skunk-580
+run_uuid: 6ef78e4042074330ab4d5ed23438e570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750678941160
+status: 3
+tags: []
+user_id: User
